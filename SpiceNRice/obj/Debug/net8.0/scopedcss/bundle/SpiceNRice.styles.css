@@ -1,0 +1,51 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
+/* _content/SpiceNRice/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-k21wi3nsoo] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-k21wi3nsoo] {
+  color: #e7895d;
+}
+
+.btn-primary[b-k21wi3nsoo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-k21wi3nsoo], .nav-pills .show > .nav-link[b-k21wi3nsoo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-k21wi3nsoo] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-k21wi3nsoo] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-k21wi3nsoo] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-k21wi3nsoo] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-k21wi3nsoo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

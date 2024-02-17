@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SpiceNRice.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpiceNRice.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\LOGO.png",
+      "PackagePath": "staticwebassets\\Images\\LOGO.png"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\NoImage.png",
+      "PackagePath": "staticwebassets\\Images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\banner.jpg",
+      "PackagePath": "staticwebassets\\Images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\butter paneer combo.jpg",
+      "PackagePath": "staticwebassets\\Images\\butter paneer combo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\butterchicken combo.jpg",
+      "PackagePath": "staticwebassets\\Images\\butterchicken combo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\butterchicken wrap.jpeg",
+      "PackagePath": "staticwebassets\\Images\\butterchicken wrap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\butterpaneer wrap.jpg",
+      "PackagePath": "staticwebassets\\Images\\butterpaneer wrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\chickenbiriyani.jpg",
+      "PackagePath": "staticwebassets\\Images\\chickenbiriyani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\eggpuffs.jpg",
+      "PackagePath": "staticwebassets\\Images\\eggpuffs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\facebookicon.png",
+      "PackagePath": "staticwebassets\\Images\\facebookicon.png"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\falooda.jpg",
+      "PackagePath": "staticwebassets\\Images\\falooda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\image5.jpg",
+      "PackagePath": "staticwebassets\\Images\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\instagramicon.png",
+      "PackagePath": "staticwebassets\\Images\\instagramicon.png"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\samosa.jpeg",
+      "PackagePath": "staticwebassets\\Images\\samosa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\shawarma wrap.jpg",
+      "PackagePath": "staticwebassets\\Images\\shawarma wrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\Images\\sodalime.jpg",
+      "PackagePath": "staticwebassets\\Images\\sodalime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\itsme\\OneDrive\\Desktop\\MOB App 2023 EV\\SpiceNRice\\SpiceNRice\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpiceNRice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpiceNRice.props",
+      "PackagePath": "build\\SpiceNRice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpiceNRice.props",
+      "PackagePath": "buildMultiTargeting\\SpiceNRice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpiceNRice.props",
+      "PackagePath": "buildTransitive\\SpiceNRice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
